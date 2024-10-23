@@ -10,6 +10,5 @@ $boost=1,site=daily.jstor.org
 $boost=1,site=foreignpolicy.com
 $boost=2,site=lrb.co.uk
 $boost=1,site=newstatesman.com
-$boost=1,site=spiegel.de/international
 $boost=1,site=theintercept.com
 $boost=1,site=theatlantic.com
