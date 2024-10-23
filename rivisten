@@ -1,14 +1,16 @@
 ! name: riviste-en
 ! description: riviste in inglese
 ! public: false
-! author: Millo
+! author: millo
 
 $discard
 
+$boost=1,site=axios.com
 $boost=2,site=aeon.co
 $boost=1,site=daily.jstor.org
 $boost=1,site=foreignpolicy.com
 $boost=2,site=lrb.co.uk
 $boost=1,site=newstatesman.com
+/international/$boost=1,site=spiegel.de
 $boost=1,site=theintercept.com
 $boost=1,site=theatlantic.com
